@@ -1,2 +1,2 @@
-# LerningJWT
+# LearningJWT
 JWT tests
